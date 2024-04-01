@@ -1,0 +1,12 @@
+1 - Adicionar a opção de se atualizar um valor na tabela; ---> Done (Ajustar a funcionalidade de pegar coluna)
+2 - Adicionar a opção de se inserir um novo valor na tabela;
+3 - Adicionar a opção de se deletar uma linha na tabela; ---> Done 
+4 - Adicionar a opção de se deletar uma coluna na tabela; --> Done 
+5 - Adicionar a função do botão de deletar a tabela; ---> Done
+6 - Substituir a caixa de seleção de arquivo por uma caixa de texto (Para digitar o nome do BD); ---> Done
+7 - Criar uma caixa de texto para digitar o nome da tabela; ---> Done
+
+--------- Bônus -----------
+8 - Adicionar uma opção que permita a realização de joins na tabela;
+9 - Adicionar uma opção que permita a realização de agrupamentos na tabela;
+10 - Adicionar uma opção de filtros
